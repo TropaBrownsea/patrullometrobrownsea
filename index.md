@@ -3,7 +3,7 @@
 
 # Patrullas
 
-| Vargeist     | Pegasos      | Hipogrifos   |
+| Vargheist    | Pegasos      | Hipogrifos   |
 |:-------------|:-------------|:-------------|
 | 12 puntos    | 7 puntos     | 7 puntos     |
 
