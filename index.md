@@ -1,5 +1,5 @@
 
-![450x450](./img/Alchimist-circle.png)
+![100x100](./img/Alchimist-circle.png)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
