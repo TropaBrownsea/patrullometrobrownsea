@@ -1,5 +1,5 @@
 
-![100x100](./img/Alchimist-circle.png)
+![300x300](./img/Alchimist-circle300.png)
 
 | Vargeist     | Pegasos      | Hipogrifos   |
 |:-------------|:-------------|:-------------|
