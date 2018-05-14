@@ -2,6 +2,7 @@
 ![300x300](./img/Alchimist-circle.png)
 
 #Patrullas
+
 | Vargeist     | Pegasos      | Hipogrifos   |
 |:-------------|:-------------|:-------------|
 | 12 puntos    | 7 puntos     | 7 puntos     |
