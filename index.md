@@ -1,5 +1,5 @@
 
-[Branching](./img/photo.jpg)
+![Branching](./img/photo.jpg)
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
