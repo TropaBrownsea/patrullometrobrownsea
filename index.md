@@ -4,7 +4,7 @@
 
 | Vargheist    | Pegasos      | Hipogrifos   |
 |:-------------|:-------------|:-------------|
-| 18 puntos    | 12 puntos    | 8 puntos    |
+| 15 puntos    | 22 puntos    | 16 puntos    |
 
 * * *
 <p style="text-align: center;">Tropa Brownsea - Grupo Scout San Jorge 103 103</p>
